@@ -41,5 +41,4 @@ client.user.setPresence({
 
 
 
-client.login(process.env.TOKEN);
-client2.login(process.env.TOKEN2);
+client.login("NDMxNTUzMTE1MjkzMjIwODc2.XXFudA.751wwA6NeftF8qwSZ3pO162DPGk");
